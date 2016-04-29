@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="bower_components/angular/angular.js"></script>
+        <script type="text/javascript" src="src/app.js"></script>
+        <script type="text/javascript" src="src/controllers/MainController.js"></script>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+
+    <body ng-app="collectify">
+        <div ng-controller="MainController">
+           <p ng-repeat="item in items">
+               {{ item.name | uppercase}} est un(e) {{ item.sexe }} de {{ item.age }} ans.
+           </p>
+        </div>
+        <div>
+
+        </div>
+
+    </body>
+</html>

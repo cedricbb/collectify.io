@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11ffff40-8218-47be-8a5c-a1932df1acb1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Dropbox/website/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\accueil.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\activites.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\Exo2-LightExpanded.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\Lobster.otf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\exo2-lightexpanded.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\exo2-lightexpanded.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\exo2-lightexpanded.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\exo2-lightexpanded.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\exo2-lightexpanded.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\lobster.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\lobster.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\lobster.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\lobster.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\fonts\lobster.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\hebergement.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\histoire.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\Background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\chalet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\chalet_ete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\chalet_hiver.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\fond_bouton.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\headerimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\headerimg_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\headerimgsummer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\headerimgsummer_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\inconnu.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\inconnu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\newheaderimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\old-vieux-moulin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\pistes.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\separateur.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\stock-vector-huge-assortment-of-people-playing-various-summer-and-winter-sports-vector-icons-for-digital-and-259520666.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\stock-vector-large-set-of-vector-sports-symbols-including-all-the-major-winter-and-summer-sports-254927149.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\stock-vector-shapes-sports-164446373.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\tn_pistes.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\wood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\images\wood_varnish_9271244.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\le grand bornand.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\photos.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\qui.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\reservations.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbillard.PASSMAN\style.css" afterPath="" />
+    </list>
+    <ignored path="collectify.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="collectify.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5804878">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controllers/MainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#45#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/apps/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#45#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/js/controllers/MainController.js" />
+        <option value="$PROJECT_DIR$/app.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="884" />
+    <option name="y" value="107" />
+    <option name="width" value="1142" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectify.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/V2B/Angular.JS" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cbillard.PASSMAN\Documents\workspace\collectify.io\src\controllers" />
+      <recent name="C:\Users\cbillard.PASSMAN\Documents\workspace\collectify.io\js\apps" />
+      <recent name="C:\Users\cbillard.PASSMAN\Documents\workspace\collectify.io\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11ffff40-8218-47be-8a5c-a1932df1acb1" name="Default" comment="" />
+      <created>1461917142262</created>
+      <option name="number" value="Default" />
+      <updated>1461917142262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="884" y="107" width="1142" height="778" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21225578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/controllers/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/apps/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5804878">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
